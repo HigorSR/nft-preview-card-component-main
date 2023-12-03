@@ -1,4 +1,4 @@
-# Interactive Rating Component
+# NFT Preview Card Component
 
 Este é um projeto [Next.js](https://nextjs.org/) de um Componente de cartão de visualização NFT baseado em um desafio do [FrontEnd-Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).
 
